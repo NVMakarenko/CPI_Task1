@@ -8,12 +8,10 @@ int main()
     float x, y;
     int N;
     printf("Enter x\n");
-   // x = 0.98;
-    //N = 5.0;
     scanf_s("%f", &x);
     printf("Enter N (number of Taylor series members)\n");
     scanf_s("%i", &N);
-
+    N = 4;
     y = TaylorFunc(x, N);
 
     printf("\n\nResult\n");
