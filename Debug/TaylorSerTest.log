@@ -1,0 +1,6 @@
+﻿  Header.cpp
+  Main.cpp
+  TaylorFunc.cpp
+C:\Users\Зуб\source\repos\TaylorSerTest\TaylorFunc.cpp(14,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  TaylorSerTest.vcxproj -> C:\Users\Зуб\source\repos\TaylorSerTest\Debug\TaylorSerTest.exe
