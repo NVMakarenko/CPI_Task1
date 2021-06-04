@@ -1,0 +1,6 @@
+﻿  TaylorFunc.cpp
+C:\Users\Зуб\source\repos\TaylorSerTest\TaylorFunc.cpp(14,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  UnitTest1.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Зуб\source\repos\TaylorSerTest\Debug\UnitTest1.lib и объект C:\Users\Зуб\source\repos\TaylorSerTest\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Зуб\source\repos\TaylorSerTest\Debug\UnitTest1.dll
