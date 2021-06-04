@@ -11,7 +11,7 @@ int main()
     scanf_s("%f", &x);
     printf("Enter N (number of Taylor series members)\n");
     scanf_s("%i", &N);
-    N = 4;
+
     y = TaylorFunc(x, N);
 
     printf("\n\nResult\n");
