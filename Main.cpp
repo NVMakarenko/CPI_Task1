@@ -12,7 +12,7 @@ int main()
     printf("Enter N (number of Taylor series members)\n");
     scanf_s("%i", &N);
 
-    y = TaylorFuncA(x, N);
+    y = TaylorFunc(x, N);
 
     printf("\n\nResult\n");
     printf("x = %7.4f\ny = %7.4f\nn = %i\n", x, y, N);
