@@ -1,7 +1,7 @@
 #include <math.h>
 #include "Header.h"
 
-float TaylorFuncA(double x, int N)
+float TaylorFunc(double x, int N)
 {
     double c;
     float y;
